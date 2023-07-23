@@ -1,4 +1,4 @@
-# AI-Genesis-Hackathon (DataSense) [App Link](https://datasense.streamlit.app/)
+# AI Arena 1.0-Hackathon (DataSense) [App Link](https://datasense.streamlit.app/)
 
 ![image](https://github.com/chethanreddy123/AI-Genesis-Hackathon/assets/69640722/2ee40679-d245-426a-948c-b7de22ceade1)
 
